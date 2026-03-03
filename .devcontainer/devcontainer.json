@@ -1,6 +1,6 @@
 {
   "name": "PSYC4411",
-  "image": "mcr.microsoft.com/devcontainers/miniconda:0-3.12",
+  "image": "mcr.microsoft.com/devcontainers/miniconda:1-3",
   "features": {
     "ghcr.io/devcontainers/features/github-cli:1": {}
   },
